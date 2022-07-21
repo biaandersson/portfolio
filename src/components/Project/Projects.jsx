@@ -45,7 +45,6 @@ const Projects = () => {
                   </p>
                 </Tab.Pane>
                 <Tab.Pane eventKey='third'>
-                  <p>
                     Everyone calls me Bia and I work as a Site Reliability
                     Engineer within one of Europe's leading gaming companies.
                     Over the past three years, I have introduced processes,
@@ -87,7 +86,6 @@ const Projects = () => {
                     system administration topics. We split our time between
                     operations/on-call duties and developing systems and
                     software that help increase site reliability and performance
-                  </p>
                 </Tab.Pane>
               </Tab.Content>
             </Tab.Container>
